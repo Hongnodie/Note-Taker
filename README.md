@@ -23,15 +23,17 @@
   If you would prefer to run this page on your local machine simply clone the repo and run the command `npm i` in your terminal. This will download all the dependencies you need to run the project. 
 
   ## Usage
-  <details>
 
+  <details>
   <summary>User Story</summary>
   >```
   >AS A small business owner
   >I WANT to be able to write and save notes
   >SO THAT I can organize my thoughts and keep track of tasks I need to complete
   >```
+  </details>
 
+  <details>
   <summary>Acceptance Criteria</summary>
   >```
   >GIVEN a note-taking application
@@ -48,7 +50,9 @@
   >WHEN I click on the Write icon in the navigation at the top of the page
   >THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
   >```
+  </details>
 
+  <details>
   <summary>Getting Started</summary>
   >On the back end, the application should include a `db.json` file that will be used to store and retrieve notes using the `fs` module.
   >The following HTML routes should be created:
@@ -57,7 +61,6 @@
   >The following API routes should be created:
   >* `GET /api/notes` should read the `db.json` file and return all saved notes as JSON.
   >* `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you).
-
   </details>
 
 
