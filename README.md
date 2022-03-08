@@ -2,7 +2,7 @@
 
   ## Deployed with Heroku at:
 
-  []()
+  [Open web paged powered by Heroku Here](https://notetakerminiapp.herokuapp.com/)
 
   ## Description
 
