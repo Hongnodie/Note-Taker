@@ -4,6 +4,8 @@
 
   [Open web paged powered by Heroku Here](https://notetakerminiapp.herokuapp.com/)
 
+  [See video instruction here](https://drive.google.com/file/d/1suLqFV8Ca_JDkFyyVvc3xpLw3jEX_YWC/view)
+
   ## Description
 
   Note Taker can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
@@ -65,7 +67,9 @@
 
   ## Screenshot of the Application
 
-  ![Screenshot of Note Taker]()
+  ![Screenshot of Note Taker](./db/Display.gif)
+
+  [See code package at Github](https://github.com/Hongnodie/Note-Taker.git)
   
   ## License
   <details>
